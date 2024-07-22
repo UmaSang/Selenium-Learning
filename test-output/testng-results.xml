@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-22T14:30:36 EDT" name="Default suite" finished-at="2024-07-22T14:31:05 EDT" duration-ms="28623">
+    <groups>
+    </groups>
+    <test started-at="2024-07-22T14:30:36 EDT" name="Default test" finished-at="2024-07-22T14:31:05 EDT" duration-ms="28623">
+      <class name="selenium.Learning.ExtentReportManager1">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:selenium.Learning.ExtentReportManager1@1f97cf0d]" started-at="2024-07-22T14:30:36 EDT" name="driverSetup" finished-at="2024-07-22T14:30:45 EDT" duration-ms="9148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="redemption()[pri:1, instance:selenium.Learning.ExtentReportManager1@1f97cf0d]" started-at="2024-07-22T14:30:45 EDT" name="redemption" finished-at="2024-07-22T14:30:48 EDT" duration-ms="2690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redemption -->
+        <test-method signature="saintbasil()[pri:2, instance:selenium.Learning.ExtentReportManager1@1f97cf0d]" started-at="2024-07-22T14:30:48 EDT" name="saintbasil" finished-at="2024-07-22T14:30:52 EDT" duration-ms="4375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saintbasil -->
+        <test-method signature="healthcap()[pri:3, instance:selenium.Learning.ExtentReportManager1@1f97cf0d]" started-at="2024-07-22T14:30:52 EDT" name="healthcap" finished-at="2024-07-22T14:30:56 EDT" duration-ms="4149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- healthcap -->
+        <test-method signature="nicolet()[pri:4, instance:selenium.Learning.ExtentReportManager1@1f97cf0d]" started-at="2024-07-22T14:30:56 EDT" name="nicolet" finished-at="2024-07-22T14:31:00 EDT" duration-ms="3594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nicolet -->
+        <test-method signature="rawdon()[pri:5, instance:selenium.Learning.ExtentReportManager1@1f97cf0d]" started-at="2024-07-22T14:31:00 EDT" name="rawdon" finished-at="2024-07-22T14:31:03 EDT" duration-ms="3399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rawdon -->
+        <test-method is-config="true" signature="closeMethod()[pri:0, instance:selenium.Learning.ExtentReportManager1@1f97cf0d]" started-at="2024-07-22T14:31:03 EDT" name="closeMethod" finished-at="2024-07-22T14:31:05 EDT" duration-ms="1136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeMethod -->
+      </class> <!-- selenium.Learning.ExtentReportManager1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

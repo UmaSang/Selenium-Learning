@@ -1,0 +1,14 @@
+
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name=" suite" guice-stage="DEVELOPMENT">
+	
+	
+	
+  <test thread-count="5" name=" test" verbose="2">
+    <classes>
+      <class name="selenium.Learning.Redemption"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->
+            
